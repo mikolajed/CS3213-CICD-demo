@@ -58,4 +58,4 @@ jobs:
       # Run your test
       - name: Check Documentation
         run: |
-          python check_doc.py Documentation.md
+          python CS3213_check_doc.py Documentation.md
